@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{7A9D45A1-3A97-47FC-8815-796030BE5A88}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie_App/Views/Movies/Edit.cshtml">
+    <Files>
+      <File FileName="Movie_App/Models/Movie.cs" Line="14" Column="1" />
+      <File FileName="Movie_App/Data/MovieContext.cs" Line="13" Column="1" />
+      <File FileName="Movie_App/Data/SeedData.cs" Line="3" Column="11" />
+      <File FileName="Movie_App/Controllers/MoviesController.cs" Line="176" Column="1" />
+      <File FileName="Movie_App/Views/Movies/Index.cshtml" />
+      <File FileName="Movie_App/Views/Shared/_Layout.cshtml" />
+      <File FileName="Movie_App/appsettings.json" />
+      <File FileName="Movie_App/Program.cs" Line="39" Column="11" />
+      <File FileName="Movie_App/wwwroot/css/site.css" />
+      <File FileName="Movie_App/MovieApp.csproj" />
+      <File FileName="Movie_App/Views/Movies/Create.cshtml" Line="42" Column="1" />
+      <File FileName="Movie_App/Views/Movies/Edit.cshtml" Line="42" Column="1" />
+      <File FileName="Movie_App/Views/Movies/Details.cshtml" />
+      <File FileName="Movie_App/Views/Movies/Delete.cshtml" />
+      <File FileName="Movie_App/Properties/launchSettings.json" />
+      <File FileName="Movie_App/MovieApp.db" />
+      <File FileName="Movie_App/MovieApp.db-wal" />
+      <File FileName="Movie_App/Views/Shared/_Header.cshtml" />
+      <File FileName="../../.nuget/packages/bootstrap/5.3.3/contentFiles/any/any/wwwroot/js/bootstrap.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movie_App" expanded="True">
+            <Node name="Movie_App" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="posters" expanded="True">
+                  <Node name="photo_2024-07-11 12.12.59.jpeg" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Movie__App PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

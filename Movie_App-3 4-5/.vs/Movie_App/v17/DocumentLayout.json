@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|c:\\users\\admin\\downloads\\movie_app-3\\movie_app\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9D45A1-3A97-47FC-8815-796030BE5A88}|Movie_App\\Movie_App.csproj|solutionrelative:movie_app\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Movie_App\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Movie_App\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T12:23:08.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Movie_App\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Movie_App\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T12:22:16.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Movie_App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Movie_App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T12:14:45.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Movie_App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Movie_App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T12:13:36.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Movie_App\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Movie_App\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T12:13:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Movie_App\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Movie_App\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T12:13:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Movie_App\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Movie_App\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T12:11:53.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie_App\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Models\\Movie.cs",
+              "RelativeToolTip": "Movie_App\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:08:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\appsettings.json",
+              "RelativeDocumentMoniker": "Movie_App\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\appsettings.json",
+              "RelativeToolTip": "Movie_App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T12:01:24.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Movie_App\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Data\\SeedData.cs",
+              "RelativeToolTip": "Movie_App\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:01:04.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Movie_App\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Movie_App\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:01:00.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Program.cs",
+              "RelativeDocumentMoniker": "Movie_App\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Program.cs",
+              "RelativeToolTip": "Movie_App\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:01:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Data\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Movie_App\\Data\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Movie_App-3\\Movie_App\\Data\\MovieContext.cs",
+              "RelativeToolTip": "Movie_App\\Data\\MovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:01:03.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
